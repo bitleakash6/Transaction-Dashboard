@@ -1,6 +1,6 @@
 # 📊 Welcome to the MERN Stack Transaction Dashboard! 🛠️
 
-[**Live**](https://akash-bitle-transaction-dashboard1.onrender.com/)
+[**Live**](https://akash-bitle-transaction-dashboard1.onrender.com/) : https://akash-bitle-transaction-dashboard1.onrender.com/
 
 ## Objective
 
@@ -9,9 +9,9 @@ This project is a MERN stack application designed to manage and query product tr
 
 ## Tech Stack
 
-*Client:* React.Js, components, Axios
+**Client:** React.Js, components, Axios
 
-*Server:* Node.Js, Express.Js ,Mongodb, Mongoose, Axios
+**Server:** Node.Js, Express.Js ,Mongodb, Mongoose, Axios
 
 ## Features Implemented
 
@@ -44,6 +44,7 @@ This project is a MERN stack application designed to manage and query product tr
 
 **Bar Chart**
 - Display price ranges and the number of items in each range for the selected month.
+  
 **Pie Chart**
 
 - Display unique categories and the number of items in each category for the selected month.
@@ -64,7 +65,7 @@ Clone the project
 Move into Project folder
 
 ```bash
-cd Quality_Log_Control
+cd roxiler
 ```
 
 Move into server and install node dependencies for server side
@@ -98,9 +99,9 @@ npm start
 
 # ScreenShot of Project :
 
-- <img src="https://github.com/bitleakash6/Qaulity_Log_Control_MERN_Project/blob/main/images/SDE_Intern-ss%20Chat360.png">
+- <img src="">
 
-- <img src="https://github.com/bitleakash6/Qaulity_Log_Control_MERN_Project/blob/main/images/SDE_Intern-ss1%20Chat360.png">
+- <img src="">
 
 
 ## Authors
