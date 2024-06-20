@@ -64,7 +64,7 @@ function Transactions({ month, monthText }) {
     const getData = async () => {
         try {
             setLoading(true);
-            const { data } = await axios.get(`https://localhost:3000/transactions`, {
+            const { data } = await axios.get(`https://transaction-dashboard-roxiler.onrender.com/transactions`, {
                 params: {
                     month,
                     page: tableParams.pagination.current,
