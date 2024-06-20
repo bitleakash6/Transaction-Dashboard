@@ -99,9 +99,9 @@ npm start
 
 # ScreenShot of Project :
 
-- <img src="https://github.com/bitleakash6/Transaction-Dashboard/blob/main/Images/frontend.png">
+<img src="https://github.com/bitleakash6/Transaction-Dashboard/blob/main/Images/frontend.png">
 
-- <img src="">
+<img src="https://github.com/bitleakash6/Transaction-Dashboard/blob/main/Images/transactions.png">
 
 
 ## Authors
