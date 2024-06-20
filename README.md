@@ -23,12 +23,12 @@ This project is a MERN stack application designed to manage and query product tr
 
 ### API Endpoints
 
-**Initialize Database**: Fetch data and initialize the database.
-**List Transactions**: List transactions with search and pagination.
-**Statistics**: Provide total sale amount, total sold items, and total not sold items for the selected month.
-**Bar Chart Data**: Provide price ranges and the number of items in each range for the selected month.
-**Pie Chart Data**: Provide unique categories and the number of items in each category for the selected month.
-**Combined Data**: Fetch and combine data from all the above APIs and send a final combined JSON response.
+- **Initialize Database**: Fetch data and initialize the database.
+- **List Transactions**: List transactions with search and pagination.
+- **Statistics**: Provide total sale amount, total sold items, and total not sold items for the selected month.
+- **Bar Chart Data**: Provide price ranges and the number of items in each range for the selected month.
+- **Pie Chart Data**: Provide unique categories and the number of items in each category for the selected month.
+- **Combined Data**: Fetch and combine data from all the above APIs and send a final combined JSON response.
 
 ## Frontend
 **Transaction Table**
